@@ -64,7 +64,7 @@ This dashboard empowers eCommerce business stakeholders to:
 ## 🖼️ Dashboard Preview
 
 > Dashboard
-  ![Dashboard](screenshots/Dashboard.png)
+  ![Dashboard](Dashboard.png)
 
 ---
 
